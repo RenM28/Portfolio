@@ -1,0 +1,71 @@
+body {
+	width:1000px;
+	font-family: 'Berkshire Swash';font-size: 20px;
+	color:black;
+	background-image: url(3_magic_pic.jpg);
+	margin-top:50px;
+}
+
+.banner {
+	width:1020px;
+	color:#66b3ff;
+	font-family: 'Alex Brush';font-size: 80px;
+	text-align:center;
+	line-height:80px;
+}
+
+.middle {
+	position:relative;
+	width:1000px;
+	height:500px;
+}
+
+.main {
+	position:absolute;
+	width:1000px;
+	height:500px;
+	font-size:20;
+	text-align:center;
+	color:#66b3ff;
+}
+
+.story-box{
+	position:absolute;
+	text-align:center;
+	width:400px;
+	margin-top:80px;
+	height:385px;
+	color:#66b3ff;
+	left:530px;
+	top:80px;
+	padding:5px;
+}
+
+.word-box{
+	position:absolute;
+	text-align:center;
+	width:420px;
+	height:385px;
+	color:#66b3ff;
+	top:80px;
+	padding:5px;
+	left:60px;
+}
+
+.scrollable {
+    height: 500px;
+    overflow-y: auto;
+}
+
+label {
+    width: 200px;
+    text-align: right;
+	float: left;
+}
+input {
+    width: 150px;
+    margin-left: 5px;
+	float: left;
+	margin-top: 4px;
+}
+	
